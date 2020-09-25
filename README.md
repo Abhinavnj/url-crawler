@@ -1,3 +1,3 @@
 # url-crawler
 
-Basic URL crawler written in Python w/ multithreading
+Basic URL crawler written in Python with multithreading.
